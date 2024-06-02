@@ -1,5 +1,4 @@
-https://cdn.discordapp.com/attachments/1151413873082114048/1246878110771581040/Untitled400_20240602182806.png?ex=665dfd3b&is=665cabbb&hm=a14c928530e5507cc666222258970efb234ca99637457d01bf96ba908336d1f9&
-<!--
+
 **gridball/gridball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
